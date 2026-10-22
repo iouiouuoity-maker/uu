@@ -1,0 +1,1 @@
+{"name":"errormap-classroom","private":true,"scripts":{"dev":"python3 server/server.py --host 0.0.0.0 --port 4173","test":"node tests/check.cjs && python3 tests/classroom_test.py"}}
